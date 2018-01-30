@@ -1,33 +1,13 @@
 
-# Junxuan Bai's Homepage
+## Junxuan Bai
 
+## About Me
 
+## Publications
 
+## Projects
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Codes
 
 
 ## Welcome to GitHub Pages
