@@ -9,20 +9,45 @@ Email: baijx6@163.com
 
 ## Projects
 
-### Real-time Simulation for Virtual Surgery
+- **Real-time Simulation for Virtual Surgery**  
 ![image](http://note.youdao.com/favicon.ico)
 
-### Skeleton-based Skinning Method
+- **Skeleton-based Skinning Method**  
 ![image](http://note.youdao.com/favicon.ico)
 
 
 ---
 
 ## Publications
+
+- **Essential techniques for laparoscopic surgery simulation**  
+Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
+Computer Animation and Virtual Worlds 28(2) (2017)
+[Paper](http://note.youdao.com/)
+[Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/QianBYPZ17)
+
+
+- **Real-time haptic manipulation and cutting of hybrid soft tissue models by extended position-based dynamics**  
+Junjun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
+Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)  
+[Paper](http://note.youdao.com/)
+[Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/PanBZHQ15)
+
+
+- **Virtual reality based laparoscopic surgery simulation**  
+	Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
+ ACM VRST 2015: 69-78  
+[Paper](http://note.youdao.com/)
+[Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/QianBYPZ15)
+
+
+
+
 - **Dissection of hybrid soft tissue models using position-based dynamics**
 JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
-ACM VRST 2014, Edinburgh, United Kingdom, November 11-13, 2014  
-[Paper](http://note.youdao.com/) [Bib](http://note.youdao.com/)
+ACM VRST 2014: 219-220  
+[Paper](http://note.youdao.com/)
+[Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/PanBZHQ14)
 
 
 
