@@ -1,12 +1,34 @@
-
 ## Junxuan Bai
 
-## About Me
+
 I am a PhD student of Computer Science at Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
 
-## Publications
+Email: baijx6@163.com
+
+---
 
 ## Projects
+
+### Real-time Simulation for Virtual Surgery
+![image](http://note.youdao.com/favicon.ico)
+
+### Skeleton-based Skinning Method
+![image](http://note.youdao.com/favicon.ico)
+
+
+---
+
+## Publications
+- **Dissection of hybrid soft tissue models using position-based dynamics**
+JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
+ACM VRST 2014, Edinburgh, United Kingdom, November 11-13, 2014  
+[Paper](http://note.youdao.com/) [Bib](http://note.youdao.com/)
+
+
+
+
+
+---
 
 ## Codes
 
