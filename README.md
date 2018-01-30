@@ -2,6 +2,7 @@
 ## Junxuan Bai
 
 ## About Me
+I am a PhD student of Computer Science at Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
 
 ## Publications
 
