@@ -22,7 +22,7 @@ Email: baijx6@163.com
 
 - **Essential techniques for laparoscopic surgery simulation**  
 Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
-Computer Animation and Virtual Worlds 28(2) (2017)
+Computer Animation and Virtual Worlds 28(2) (2017)  
 [Paper](http://note.youdao.com/)
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/QianBYPZ17)
 
