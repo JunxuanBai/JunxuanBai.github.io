@@ -10,7 +10,7 @@ Email: baijx6@163.com
 ---
 ## Intersects
 - **Playing Clarinet**
-![image](./2003_Band.jpg)
+![image](./2003_Band.jpg)  
 - **Badminton**
 ![image](./badminton.jpg)
 
@@ -18,13 +18,13 @@ Email: baijx6@163.com
 
 ## Projects
 
-- **Real-time Simulation for Virtual Surgery**  
+- **Real-time Simulation for Virtual Surgery**
 ![image](./SurgerySimulator.jpg)
 
-- **Skeleton-based Skinning Method**  
-![image](./SkeletalAnimation.png)
+- **Skeleton-based Skinning Method**
+![image](./SkeletalAnimation.png)  
 
-- **Displaying Platform for Crude Oil Logging Software**
+- **Displaying Platform for Crude Oil Logging Software**  
 ![image](./DisplayPlatform.jpg)
 
 ---
