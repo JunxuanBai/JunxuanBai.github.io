@@ -1,7 +1,8 @@
 ## Junxuan Bai
 
 
-![image](https://github.com/JunxuanBai/JunxuanBai.github.io/blob/master/Head%20portrait.jpg)I am a PhD student of Computer Science at Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
+![image](https://github.com/JunxuanBai/JunxuanBai.github.io/blob/master/Head%20portrait.jpg)  
+I am a PhD student of Computer Science at Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
 
 Email: baijx6@163.com
 
