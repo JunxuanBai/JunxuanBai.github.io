@@ -1,6 +1,6 @@
-## Junxuan Bai
+## Junxuan Bai&nbsp;(白隽瑄)
 
-I am a PhD student of Computer Science at Beihang University from 2015. My interests include physically-based animation, shape deformation and virtual reality.
+I am currently a PhD student of Computer Science at Beihang University from 2015. I got BSc in Mathematics from Dalian Maritime University in 2012, MSc in Computer Science from Beihang University in 2015. In 2010, I got a second prize in Liaoning Province in CUMCM. In 2011, I took part in COMAP Interdisciplinary Contest in Modeling (MCM/ICM) and got a Honorable Mention. In 2014, I got Kwang-Hua scholarship in Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
 
 Email: baijx6@163.com
   
@@ -17,6 +17,8 @@ Email: baijx6@163.com
 - **Skeleton-based Skinning Method**  
 ![image](./SkeletalAnimation.png)
 
+- **Displaying Platform for Crude Oil Logging Software**
+![image](./DisplayPlatform.jpg)
 
 ---
 
@@ -25,21 +27,21 @@ Email: baijx6@163.com
 - **Essential techniques for laparoscopic surgery simulation**  
 Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
 Computer Animation and Virtual Worlds 28(2) (2017)  
-[Paper](http://onlinelibrary.wiley.com/doi/10.1002/cav.1724/full)&nbsp;&nbsp;
+[Paper](https://drive.google.com/open?id=1_hw8Wz9c1EP4w7UZevRT3svW4pt2TwX9)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/QianBYPZ17)
 
 
 - **Real-time haptic manipulation and cutting of hybrid soft tissue models by extended position-based dynamics**  
 Junjun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)  
-[Paper](http://onlinelibrary.wiley.com/doi/10.1002/cav.1655/abstract)&nbsp;&nbsp;
+[Paper](https://drive.google.com/open?id=1bEzvFh5RlZ2JNGK0qv5850q_dGNWosht)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/PanBZHQ15)
 
 
 - **Virtual reality based laparoscopic surgery simulation**  
 	Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
  ACM VRST 2015: 69-78  
-[Paper](https://dl.acm.org/citation.cfm?id=2821599)&nbsp;&nbsp;
+[Paper](https://drive.google.com/open?id=1yGW5Ui2ZaUQslhLyvycWg32MIWClgbTg)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/QianBYPZ15)
 
 
@@ -48,7 +50,7 @@ Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)
 - **Dissection of hybrid soft tissue models using position-based dynamics**  
 JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 ACM VRST 2014: 219-220  
-[Paper](https://dl.acm.org/citation.cfm?id=2671129)&nbsp;&nbsp;
+[Paper](https://drive.google.com/open?id=1oKg4tFlQe1P8JAobmbBc0MsRKxmSGXeR)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/PanBZHQ14)
 
 
