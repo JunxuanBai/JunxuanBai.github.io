@@ -1,8 +1,10 @@
 ## Junxuan Bai
 
-![pro](./Head portrait.jpg)
+
 
 ![star](https://tse1-mm.cn.bing.net/th?id=OIP._TgD4u3z1KIS6cNKBA3rNQHaEK&p=0&o=5&pid=1.1)
+
+![pro](./Headportrait.jpg)
 
 I am a PhD student of Computer Science at Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
 
@@ -46,7 +48,7 @@ Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)
 
 
 
-- **Dissection of hybrid soft tissue models using position-based dynamics**
+- **Dissection of hybrid soft tissue models using position-based dynamics**  
 JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 ACM VRST 2014: 219-220  
 [Paper](http://note.youdao.com/)
