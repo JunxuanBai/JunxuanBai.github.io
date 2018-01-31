@@ -1,7 +1,7 @@
 ## Junxuan Bai
 
 
-![profile](https://github.com/JunxuanBai/JunxuanBai.github.io/blob/master/Head%20portrait.jpg)  
+![profile](https://drive.google.com/open?id=1CDHfTM_-yPvvHIRn-lzAcK2LDd6uzuBV)  
 
 ![star](https://tse1-mm.cn.bing.net/th?id=OIP._TgD4u3z1KIS6cNKBA3rNQHaEK&p=0&o=5&pid=1.1)
 
