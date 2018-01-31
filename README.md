@@ -12,7 +12,7 @@ Email: baijx6@163.com
 ## Projects
 
 - **Real-time Simulation for Virtual Surgery**  
-![image](http://note.youdao.com/favicon.ico)
+![image](SurgerySimulator.jpg)
 
 - **Skeleton-based Skinning Method**  
 ![image](http://note.youdao.com/favicon.ico)
@@ -32,7 +32,7 @@ Computer Animation and Virtual Worlds 28(2) (2017)
 - **Real-time haptic manipulation and cutting of hybrid soft tissue models by extended position-based dynamics**  
 Junjun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)  
-[Paper](http://note.youdao.com/)
+[Paper link](http://onlinelibrary.wiley.com/doi/10.1002/cav.1655/abstract)
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/PanBZHQ15)
 
 
