@@ -9,9 +9,10 @@ Email: baijx6@163.com
 
 ---
 ## Intersects
-- **Playing Clarinet**
+- **Playing Clarinet**  
 ![image](./2003_Band.jpg)  
-- **Badminton**
+
+- **Badminton**  
 ![image](./badminton.jpg)
 
 ---
