@@ -12,6 +12,12 @@ Email: baijx6@163.com
 - BSc in Mathematics, Dalian Maritime University (Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2008~2012
 - MSc in Computer Science, Beihang University (Project 985 & Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2012~2015
 
+## Award
+- Kwang-Hua scholarship, Beihang University, 2014
+- Honorable Mention, COMAP Interdisciplinary Contest in Modeling (MCM/ICM), 2011
+- Second Prize in Liaoning Province, CUMCM, 2010
+- No.1 in Beijing Music Competition in High School, 2004
+
 ---
 ## Intersects
 - **Playing Clarinet**  
