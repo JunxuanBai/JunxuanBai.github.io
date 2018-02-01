@@ -1,11 +1,16 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-I am currently a PhD student of Computer Science at **Beihang University** since 2015. After I graduated from **Beijing No.80 High School (City Key High School)** in 2008, I got BSc in Mathematics from **Dalian Maritime University (Project 211)** in 2012, MSc in Computer Science from **Beihang University (Project 985 & Project 211)** in 2015. In 2010, I got **a second prize** in Liaoning Province in CUMCM. In 2011, I took part in COMAP Interdisciplinary Contest in Modeling (MCM/ICM) and got **a Honorable Mention**. In 2014, I got **Kwang-Hua scholarship** in Beihang University. My interests include physically-based animation, shape deformation and virtual reality.
+I am currently a PhD student of Computer Science at **Beihang University** since 2015. My interests include physically-based animation, shape deformation and virtual reality.
 
 Email: baijx6@163.com
   
   
 ![image](./Headportrait.jpg) 
+
+## Education
+- Beijing No.80 High School (City Key High School)&nbsp;&nbsp;&nbsp;&nbsp;2005~2008
+- BSc in Mathematics, Dalian Maritime University (Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2008~2012
+- MSc in Computer Science, Beihang University (Project 985 & Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2012~2015
 
 ---
 ## Intersects
