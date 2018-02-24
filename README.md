@@ -5,7 +5,7 @@ I am currently a PhD student of Computer Science at **Beihang University** since
 Email: baijx6@163.com
   
   
-![image](./Headportrait.jpg) 
+![image](./2018_Clarinet.jpg) 
 
 ## Education
 - Beijing No.80 High School (City Key High School)&nbsp;&nbsp;&nbsp;&nbsp;2005~2008
@@ -20,8 +20,8 @@ Email: baijx6@163.com
 
 ---
 ## Intersects
-- **Playing Clarinet**  
-![image](./2018_Clarinet.jpg)  
+- **Playing Clarinet**  
+//![image](./2018_Clarinet.jpg)  
 
 - **Badminton**  
 ![image](./badminton.jpg)
