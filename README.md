@@ -10,7 +10,7 @@ Email: baijx6@163.com
 ## Education
 
 &nbsp; | **School** | **Year**
--|:---|:---:
+:-:|:---|:---:
 &nbsp;&nbsp; 1 &nbsp;&nbsp; | Beijing No.80 High School (City Key High School) | 2005~2008
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University (Project 211) | 2008~2012
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University (Project 985 & Project 211) | 2012~2015
@@ -18,7 +18,7 @@ Email: baijx6@163.com
 ## Award
 
 &nbsp; | **Award** | **Year**
--|:---|:---:
+:-:|:---|:---:
 &nbsp;&nbsp; 1 &nbsp;&nbsp; | No.1 in 2004 Beijing Music Competition in High School | 2004
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | 2nd Prize in Liaoning Province, 2010 CUMCM | 2010
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention, 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
