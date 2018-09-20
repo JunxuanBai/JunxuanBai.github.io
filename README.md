@@ -8,21 +8,14 @@ Email: baijx6@163.com
 ![image](./2018_Clarinet.jpg) 
 
 ## Education
-- Beijing No.80 High School (City Key High School)&nbsp;&nbsp;&nbsp;&nbsp;2005~2008
-- BSc in Mathematics, Dalian Maritime University (Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2008~2012
-- MSc in Computer Science, Beihang University (Project 985 & Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2012~2015
 
-**Award** | **Year**
+**School** | **Year**
 ---|---
 Beijing No.80 High School (City Key High School) | 2005~2008
 BSc in Mathematics, Dalian Maritime University (Project 211) | 2008~2012
 MSc in Computer Science, Beihang University (Project 985 & Project 211) | 2012~2015
 
 ## Award
-- Kwang-Hua Scholarship, Beihang University, 2014
-- Honorable Mention, COMAP Interdisciplinary Contest in Modeling (MCM/ICM), 2011
-- Second Prize in Liaoning Province, CUMCM, 2010
-- No.1 in Beijing Music Competition in High School, 2004
 
 **Award** | **Year**
 ---|---
@@ -56,9 +49,9 @@ No.1 in 2004 Beijing Music Competition in High School | 2004
 
 ## Publications
 - **Novel metaballs-driven approach with dynamic constraints for character articulation**
-Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin
+Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin  
 SCIENCE CHINA Information Sciences, 2018, 61(9): 094101
-[Link](http://scis.scichina.com/en/2018/094101.html)
+[Paper link](http://scis.scichina.com/en/2018/094101.html)
 
 - **Essential techniques for laparoscopic surgery simulation**  
 Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
