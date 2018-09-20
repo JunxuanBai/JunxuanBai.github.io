@@ -18,6 +18,14 @@ Email: baijx6@163.com
 - Second Prize in Liaoning Province, CUMCM, 2010
 - No.1 in Beijing Music Competition in High School, 2004
 
+Award | Year
+---|---
+Third Prize in 2018 Design Competition for Acceptance Notice of Beihang University | 2018
+GuangHua Scholarship, Beihang University | 2014
+Honorable Mention, COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
+Second Prize in Liaoning Province, CUMCM | 2010
+No.1 in Beijing Music Competition in High School | 2004
+
 ---
 ## Intersects
 - **Playing Clarinet**  
@@ -41,29 +49,28 @@ Email: baijx6@163.com
 ---
 
 ## Publications
-
-
+- **Novel metaballs-driven approach with dynamic constraints for character articulation**
+Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin
+SCIENCE CHINA Information Sciences, 2018, 61(9): 094101
+[Link](http://scis.scichina.com/en/2018/094101.html)
 
 - **Essential techniques for laparoscopic surgery simulation**  
 Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
 Computer Animation and Virtual Worlds 28(2) (2017)  
 [Paper](https://drive.google.com/open?id=1_hw8Wz9c1EP4w7UZevRT3svW4pt2TwX9)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/QianBYPZ17)
+
 - **Real-time haptic manipulation and cutting of hybrid soft tissue models by extended position-based dynamics**  
 Junjun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)  
 [Paper](https://drive.google.com/open?id=1bEzvFh5RlZ2JNGK0qv5850q_dGNWosht)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/PanBZHQ15)
 
-
 - **Virtual reality based laparoscopic surgery simulation**  
 	Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
  ACM VRST 2015: 69-78  
 [Paper](https://drive.google.com/open?id=1yGW5Ui2ZaUQslhLyvycWg32MIWClgbTg)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/QianBYPZ15)
-
-
-
 
 - **Dissection of hybrid soft tissue models using position-based dynamics**  
 JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
