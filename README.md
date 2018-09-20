@@ -11,6 +11,7 @@ Email: baijx6@163.com
 - Beijing No.80 High School (City Key High School)&nbsp;&nbsp;&nbsp;&nbsp;2005~2008
 - BSc in Mathematics, Dalian Maritime University (Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2008~2012
 - MSc in Computer Science, Beihang University (Project 985 & Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2012~2015
+
 **Award** | **Year**
 ---|---
 Beijing No.80 High School (City Key High School) | 2005~2008
