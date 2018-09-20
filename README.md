@@ -42,13 +42,13 @@ Email: baijx6@163.com
 
 ## Publications
 
+
+
 - **Essential techniques for laparoscopic surgery simulation**  
 Kun Qian, Junxuan Bai, Xiaosong Yang, JunJun Pan, Jian-Jun Zhang  
 Computer Animation and Virtual Worlds 28(2) (2017)  
 [Paper](https://drive.google.com/open?id=1_hw8Wz9c1EP4w7UZevRT3svW4pt2TwX9)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/journals/jvca/QianBYPZ17)
-
-
 - **Real-time haptic manipulation and cutting of hybrid soft tissue models by extended position-based dynamics**  
 Junjun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin  
 Computer Animation and Virtual Worlds 26(3-4): 321-335 (2015)  
