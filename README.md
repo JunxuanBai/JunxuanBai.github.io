@@ -11,6 +11,11 @@ Email: baijx6@163.com
 - Beijing No.80 High School (City Key High School)&nbsp;&nbsp;&nbsp;&nbsp;2005~2008
 - BSc in Mathematics, Dalian Maritime University (Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2008~2012
 - MSc in Computer Science, Beihang University (Project 985 & Project 211)&nbsp;&nbsp;&nbsp;&nbsp;2012~2015
+**Award** | **Year**
+---|---
+Beijing No.80 High School (City Key High School) | 2005~2008
+BSc in Mathematics, Dalian Maritime University (Project 211) | 2008~2012
+MSc in Computer Science, Beihang University (Project 985 & Project 211) | 2012~2015
 
 ## Award
 - Kwang-Hua Scholarship, Beihang University, 2014
@@ -18,13 +23,13 @@ Email: baijx6@163.com
 - Second Prize in Liaoning Province, CUMCM, 2010
 - No.1 in Beijing Music Competition in High School, 2004
 
-Award | Year
+**Award** | **Year**
 ---|---
-Third Prize in 2018 Design Competition for Acceptance Notice of Beihang University | 2018
+3rd Prize in 2018 Design Competition for Acceptance Notice of Beihang University | 2018
 GuangHua Scholarship, Beihang University | 2014
-Honorable Mention, COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
-Second Prize in Liaoning Province, CUMCM | 2010
-No.1 in Beijing Music Competition in High School | 2004
+Honorable Mention, 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
+2nd Prize in Liaoning Province, 2010 CUMCM | 2010
+No.1 in 2004 Beijing Music Competition in High School | 2004
 
 ---
 ## Intersects
