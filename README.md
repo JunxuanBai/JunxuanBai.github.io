@@ -1,6 +1,6 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-I am currently a PhD student of Computer Science at **Beihang University** since 2015. My interests include physically-based animation, shape deformation and virtual reality.
+I am currently a PhD candidate in Computer Science at **Beihang University**. My supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm), [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm). My interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
 
 Email: baijx6@163.com
   
@@ -11,9 +11,10 @@ Email: baijx6@163.com
 
 &nbsp; | **School** | **Year**
 :-:|:---|:---:
-&nbsp;&nbsp; 1 &nbsp;&nbsp; | Beijing No.80 High School (City Key High School) | 2005~2008
-&nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University (Project 211) | 2008~2012
-&nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University (Project 985 & Project 211) | 2012~2015
+&nbsp;&nbsp; 1 &nbsp;&nbsp; | Beijing No.80 High School | 2005~2008
+&nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University | 2008~2012
+&nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University | 2012~2015
+&nbsp;&nbsp; 4 &nbsp;&nbsp; | PhD candidate in CS, Beihang University | 2015~now
 
 ## Award
 
@@ -27,10 +28,10 @@ Email: baijx6@163.com
 
 ---
 ## Intersects
-- **Playing Clarinet**  
+- **Classical music**  
 
 - **Badminton**  
-![image](./badminton.jpg)
+[^_^]: ![image](./badminton.jpg)
 
 ---
 
