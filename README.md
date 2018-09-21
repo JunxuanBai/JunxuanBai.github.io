@@ -1,17 +1,17 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-I am currently a PhD candidate in Computer Science at **Beihang University**. My supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm), [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm). My interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
+Junxuan Bai is currently a PhD candidate in Computer Science at Beihang University. His supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm) and [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm). From 2012 to 2014, he developed a visualization platform for crude oil logging software with colleagues at [COSL](http://www.cosl.com.cn/col/col20611/index.html). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
 
-Email: baijx6@163.com
-  
+Email: **baijx6@163.com**
   
 ![image](./2018_Clarinet.jpg) 
 
+---
 ## Education
 
 &nbsp; | **School** | **Year**
 :-:|:---|:---:
-&nbsp;&nbsp; 1 &nbsp;&nbsp; | Beijing No.80 High School | 2005~2008
+&nbsp;&nbsp; 1 &nbsp;&nbsp; | [Beijing No.80 High School](http://www.bj80.com/) | 2005~2008
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University | 2008~2012
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University | 2012~2015
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | PhD candidate in CS, Beihang University | 2015~now
@@ -20,30 +20,30 @@ Email: baijx6@163.com
 
 &nbsp; | **Award** | **Year**
 :-:|:---|:---:
-&nbsp;&nbsp; 1 &nbsp;&nbsp; | No.1 in 2004 Beijing Music Competition in High School | 2004
-&nbsp;&nbsp; 2 &nbsp;&nbsp; | 2nd Prize in Liaoning Province, 2010 CUMCM | 2010
-&nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention, 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
+&nbsp;&nbsp; 1 &nbsp;&nbsp; | Team champion in 2004 Beijing Music Competition for Middle Schools | 2004
+&nbsp;&nbsp; 2 &nbsp;&nbsp; | 2nd Prize in 2010 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in Liaoning Province | 2010
+&nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention in 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | GuangHua Scholarship, Beihang University | 2014
-&nbsp;&nbsp; 5 &nbsp;&nbsp; |  3rd Prize in 2018 Design Competition for Acceptance Notice of Beihang University | 2018
+&nbsp;&nbsp; 5 &nbsp;&nbsp; | 3rd Prize in 2018 Design Competition for Acceptance Notice of Beihang University | 2018
 
 ---
 ## Intersects
 - **Classical music**  
-
+- **Art**
 - **Badminton**  
-[^_^]: ![image](./badminton.jpg)
+[//]: # (![image](./badminton.jpg)) 
+- **Video Games**
 
 ---
-
 ## Projects
 
-- **Real-time Simulation for Virtual Surgery**
+- **Real-time Simulation for Virtual Surgery** (C++)
 ![image](./SurgerySimulator.jpg)
 
-- **Skeleton-based Skinning Method**
+- **Skeleton-based Skinning Method** (C++)
 ![image](./SkeletalAnimation.png)  
 
-- **Displaying Platform for Crude Oil Logging Software**  
+- **Displaying Platform for Crude Oil Logging Software** (C#)  
 ![image](./DisplayPlatform.jpg)
 
 ---
@@ -77,10 +77,6 @@ JunJun Pan, Junxuan Bai, Xin Zhao, Aimin Hao, Hong Qin
 ACM VRST 2014: 219-220  
 [Paper](https://drive.google.com/open?id=1oKg4tFlQe1P8JAobmbBc0MsRKxmSGXeR)&nbsp;&nbsp;
 [Bib](http://dblp.uni-trier.de/rec/bibtex/conf/vrst/PanBZHQ14)
-
-
-
-
 
 ---
 
