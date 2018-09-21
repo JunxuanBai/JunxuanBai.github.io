@@ -1,6 +1,6 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-Junxuan Bai is currently a PhD candidate in Computer Science at Beihang University. His supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm) and [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm). From 2012 to 2014, he developed a visualization platform for crude oil logging software with colleagues at [COSL](http://www.cosl.com.cn/col/col20611/index.html). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
+Junxuan Bai is currently a PhD candidate in Computer Science at Beihang University. His supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm) and [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm). From 2012 to 2014, he developed a visualization platform for crude oil logging software with colleagues at [COSL](http://www.cosl.com.cn/col/col20611/index.html). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. He has published articles on [VRST 2014](http://conferences.inf.ed.ac.uk/vrst2014/program.html), [CASA 2015](http://event.ntu.edu.sg/casa/2015/Pages/index.aspx), [VRST 2015](https://vrst.acm.org/old/data/vrst2015/program.html), etc.. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
 
 Email: **baijx6@163.com**
   
@@ -19,7 +19,7 @@ Email: **baijx6@163.com**
 ## Award
 
 &nbsp; | **Award** | **Year**
-:-:|:---|:---:
+:---:|:---|:---:
 &nbsp;&nbsp; 1 &nbsp;&nbsp; | Team champion in 2004 Beijing Music Competition for Middle Schools | 2004
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | 2nd Prize in 2010 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in Liaoning Province | 2010
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention in 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
@@ -31,7 +31,6 @@ Email: **baijx6@163.com**
 - **Classical music**  
 - **Art**
 - **Badminton**  
-[//]: # (![image](./badminton.jpg)) 
 - **Video Games**
 
 ---
@@ -51,7 +50,7 @@ Email: **baijx6@163.com**
 ## Publications
 - **Novel metaballs-driven approach with dynamic constraints for character articulation**
 Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin  
-SCIENCE CHINA Information Sciences, 2018, 61(9): 094101
+SCIENCE CHINA Information Sciences, 2018, 61(9): 094101  
 [Paper link](http://scis.scichina.com/en/2018/094101.html)
 
 - **Essential techniques for laparoscopic surgery simulation**  
