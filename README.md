@@ -48,7 +48,7 @@ Email: **baijx6@163.com**
 ---
 
 ## Publications
-- **Novel metaballs-driven approach with dynamic constraints for character articulation**
+- **Novel metaballs-driven approach with dynamic constraints for character articulation**  
 Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin  
 SCIENCE CHINA Information Sciences, 2018, 61(9): 094101  
 [Paper link](http://scis.scichina.com/en/2018/094101.html)
