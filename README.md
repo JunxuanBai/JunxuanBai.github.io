@@ -13,7 +13,8 @@ Email: **baijx6@163.com**
 :-:|:---|:---:
 &nbsp;&nbsp; 1 &nbsp;&nbsp; | [Beijing No.80 High School](http://www.bj80.com/) | 2005~2008
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University | 2008~2012
-&nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University | 2012~2015
+&nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University | 2012~2015  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Supervisor: Prof. Aimin Hao | &nbsp;
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | PhD candidate in CS, Beihang University | 2015~now
 
 ## Award
