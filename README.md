@@ -1,6 +1,6 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang University](http://ev.buaa.edu.cn/). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. He has published articles on [VRST 2014](http://conferences.inf.ed.ac.uk/vrst2014/program.html), [CASA 2015](http://event.ntu.edu.sg/casa/2015/Pages/index.aspx), [VRST 2015](https://vrst.acm.org/old/data/vrst2015/program.html), etc.. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
+Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang University](http://ev.buaa.edu.cn/). From 2014 to 2015, he employed position-based dynamics to simulate soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. He has published articles on [VRST 2014](http://conferences.inf.ed.ac.uk/vrst2014/program.html), [CASA 2015](http://event.ntu.edu.sg/casa/2015/Pages/index.aspx), [VRST 2015](https://vrst.acm.org/old/data/vrst2015/program.html), etc.. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
 
 Email: **baijx6@163.com**
   
