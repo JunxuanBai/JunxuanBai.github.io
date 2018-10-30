@@ -1,6 +1,6 @@
 ## Junxuan Bai&nbsp;(白隽瑄)
 
-Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang University](http://ev.buaa.edu.cn/). His supervisors are [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm) and [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm) in [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn/#). From 2012 to 2014, he developed a visualization platform for crude oil logging software with colleagues at [COSL](http://www.cosl.com.cn/col/col20611/index.html). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. He has published articles on [VRST 2014](http://conferences.inf.ed.ac.uk/vrst2014/program.html), [CASA 2015](http://event.ntu.edu.sg/casa/2015/Pages/index.aspx), [VRST 2015](https://vrst.acm.org/old/data/vrst2015/program.html), etc.. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
+Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang University](http://ev.buaa.edu.cn/). From 2014 to 2015, he devised several algorithms on deformations and manipulations for soft tissue in virtual surgery. Recently, he designed a real-time skinning method for character animation based on metaballs model. He has published articles on [VRST 2014](http://conferences.inf.ed.ac.uk/vrst2014/program.html), [CASA 2015](http://event.ntu.edu.sg/casa/2015/Pages/index.aspx), [VRST 2015](https://vrst.acm.org/old/data/vrst2015/program.html), etc.. His interests include computer animation, physically-based deformation, shape deformation, virtual reality and visualization.
 
 Email: **baijx6@163.com**
   
@@ -14,8 +14,16 @@ Email: **baijx6@163.com**
 &nbsp;&nbsp; 1 &nbsp;&nbsp; | [Beijing No.80 High School](http://www.bj80.com/) | 2005~2008
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | BSc in Mathematics, Dalian Maritime University | 2008~2012
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | MSc in Computer Science, Beihang University | 2012~2015  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Supervisor: Prof. Aimin Hao | &nbsp;
+&nbsp; | Supervisor: [Prof. Aimin Hao](http://scse.buaa.edu.cn/info/1078/2654.htm) | &nbsp;
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | PhD candidate in CS, Beihang University | 2015~now
+&nbsp; | Supervisor: [Prof. Qinping Zhao](http://scse.buaa.edu.cn/info/1078/2628.htm), [Prof. Junjun Pan](http://shi.buaa.edu.cn/jujun_pan/zh_CN/index.htm) | &nbsp;
+
+## Work Experience
+
+&nbsp; | **Institute** | **Year**
+:-:|:---|:---:
+&nbsp;&nbsp; 1 &nbsp;&nbsp; | [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn/#) | 2012~now
+&nbsp;&nbsp; 2 &nbsp;&nbsp; | [China Oilfield Services Limited (COSL)](http://www.cosl.com.cn/) | 2012~2013
 
 ## Award
 
