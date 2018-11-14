@@ -40,7 +40,7 @@ Email: **baijx6@163.com**
 ## Intersects
 - **Classical music**  
 - **Art**
-- [**Badminton**  ](./badminton.jpg)
+- **Badminton**
 - **Video Games**
 
 ---
@@ -92,5 +92,6 @@ ACM VRST 2014: 219-220
 ## Codes
 
 ## Past Photos
+[201711-playing badminton](./badminton.jpg)
 [201802-with clarinet](./2018_Clarinet.jpg) 
 
