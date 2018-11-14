@@ -93,5 +93,6 @@ ACM VRST 2014: 219-220
 
 ## Past Photos
 [201711-playing badminton](./badminton.jpg)  
+[201809-Bamboo Garden: BFU landscape](./IMG_20180923_172803-small.jpg)  
 [201802-with clarinet](./2018_Clarinet.jpg) 
 
