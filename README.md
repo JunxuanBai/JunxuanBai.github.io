@@ -30,7 +30,7 @@ Email: **baijx6@163.com**
 
 &nbsp; | **Award** | **Year**
 :---:|:---|:---:
-&nbsp;&nbsp; 1 &nbsp;&nbsp; | Team champion in 2004 Beijing Music Competition for Middle Schools | 2004
+&nbsp;&nbsp; 1 &nbsp;&nbsp; | Team Champion in 2004 Beijing Music Competition for Middle Schools | 2004
 &nbsp;&nbsp; 2 &nbsp;&nbsp; | 2nd Prize in 2010 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in Liaoning Province | 2010
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention in 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | GuangHua Scholarship, Beihang University | 2014
