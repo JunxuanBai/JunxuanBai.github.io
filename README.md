@@ -35,6 +35,7 @@ Email: **baijx6@163.com**
 &nbsp;&nbsp; 3 &nbsp;&nbsp; | Honorable Mention in 2011 COMAP Interdisciplinary Contest in Modeling (MCM/ICM) | 2011
 &nbsp;&nbsp; 4 &nbsp;&nbsp; | GuangHua Scholarship, Beihang University | 2014
 &nbsp;&nbsp; 5 &nbsp;&nbsp; | [3rd Prize in 2018 Design Competition for Acceptance Notice of Beihang University](./Admission_notice_2018.jpg) | 2018
+&nbsp;&nbsp; 6 &nbsp;&nbsp; | [Scholarship for Outstanding Scientific and Technological Innovation Team of Graduate Students](http://graduate.buaa.edu.cn/ch/tongzhi/5663.jhtml) |2018
 
 ---
 ## Intersects
