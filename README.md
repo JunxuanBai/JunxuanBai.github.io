@@ -4,7 +4,7 @@ Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang Univers
 
 Email: **baijx6@163.com**
  
-![image](./HuaNiaoJuan.jpg) 
+![image](./HuaNiaoJuan-small.jpg) 
 
 
 ---
