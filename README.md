@@ -4,7 +4,7 @@ Junxuan Bai is currently a PhD candidate in Computer Science at [Beihang Univers
 
 Email: **baijx6@163.com**
  
-![image](./IMG_20181111_155511-small.jpg) 
+![image](./HuaNiaoJuan.jpg) 
 
 
 ---
@@ -94,6 +94,7 @@ ACM VRST 2014: 219-220
 
 ## Past Photos
 [201711-playing badminton](./badminton.jpg)  
-[201809-Bamboo Garden: BFU landscape](./IMG_20180923_172803-small.jpg)  
 [201802-with clarinet](./2018_Clarinet.jpg) 
+[201809-Bamboo Garden: BFU landscape](./IMG_20180923_172803-small.jpg)  
+[201811-Luohong Art Gallery](./IMG_20181111_155511-small.jpg)  
 
