@@ -53,6 +53,9 @@ Email: **baijx6@163.com**
 - **Skeleton-based Skinning Method** (C++)
 ![image](./SkeletalAnimation.png)  
 
+- **Interactive Character Animation based on RGB-D Camera** (C#)
+![image](./InteractiveAnimation)  
+
 - **Displaying Platform for Crude Oil Logging Software** (C#)  
 ![image](./DisplayPlatform.jpg)
 
@@ -61,7 +64,7 @@ Email: **baijx6@163.com**
 ## Publications
 - **Interactive animation generation of virtual characters using single RGB-D camera**
 Ning Kang, Junxuan Bai, Junjun Pan, HongQin
-The Visual Computer 35(6-8): 849-860 (2019)
+The Visual Computer 35(6-8): 849-860 (2019)  
 [Paper link](https://link.springer.com/article/10.1007/s00371-019-01678-7)
 
 
