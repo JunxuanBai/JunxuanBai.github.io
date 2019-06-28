@@ -59,6 +59,12 @@ Email: **baijx6@163.com**
 ---
 
 ## Publications
+- **Interactive animation generation of virtual characters using single RGB-D camera**
+Ning Kang, Junxuan Bai, Junjun Pan, HongQin
+The Visual Computer 35(6-8): 849-860 (2019)
+[Paper link](https://link.springer.com/article/10.1007/s00371-019-01678-7)
+
+
 - **Novel metaballs-driven approach with dynamic constraints for character articulation**  
 Junxuan Bai, Junjun Pan, Yuhan Yang, Hong Qin  
 SCIENCE CHINA Information Sciences, 2018, 61(9): 094101  
