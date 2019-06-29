@@ -54,7 +54,7 @@ Email: **baijx6@163.com**
 ![image](./SkeletalAnimation.png)  
 
 - **Interactive Character Animation based on RGB-D Camera** (C#)
-![image](./InteractiveAnimation)  
+![image](./InteractiveAnimation.png)  
 
 - **Displaying Platform for Crude Oil Logging Software** (C#)  
 ![image](./DisplayPlatform.jpg)
