@@ -63,7 +63,7 @@ Email: **baijx6@163.com**
 
 ## Publications
 - **Interactive animation generation of virtual characters using single RGB-D camera**
-Ning Kang, Junxuan Bai, Junjun Pan, HongQin
+Ning Kang, Junxuan Bai, Junjun Pan, Hong Qin  
 The Visual Computer 35(6-8): 849-860 (2019)  
 [Paper link](https://link.springer.com/article/10.1007/s00371-019-01678-7)
 
