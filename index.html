@@ -48,8 +48,38 @@
         <a href="https://dblp.dagstuhl.de/pid/153/5720.html"><i class="fa fa-fw fa-dblp-square"></i> DBLP</a><br>
         <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7941-0584" href="https://orcid.org/0000-0002-7941-0584" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7941-0584</a></div><br>
         
-        <script type="text/javascript" src="https://www.counters-free.net/count/ad9i"></script><br>
-        <a >Gebäudeversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=00413de5c3520b4a20b7f82a371d7a231630a5ae'></script>
+        <script type="text/javascript" src="evercookie.js"></script>
+
+<script>
+var ec = new evercookie(); 
+
+// set a cookie "id" to "12345"
+// usage: ec.set(key, value)
+ec.set("id", "12345"); 
+
+// retrieve a cookie called "id" (simply)
+ec.get("id", function(value) { alert("Cookie value is " + value) }); 
+
+// or use a more advanced callback function for getting our cookie
+// the cookie value is the first param
+// an object containing the different storage methods
+// and returned cookie values is the second parameter
+function getCookie(best_candidate, all_candidates)
+{
+    alert("The retrieved cookie is: " + best_candidate + "\n" +
+        "You can see what each storage mechanism returned " +
+        "by looping through the all_candidates object.");
+
+    for (var item in all_candidates)
+        document.write("Storage mechanism " + item +
+            " returned: " + all_candidates[item] + "<br>");
+}
+ec.get("id", getCookie); 
+
+// we look for "candidates" based off the number of "cookies" that
+// come back matching since it's possible for mismatching cookies.
+// the best candidate is most likely the correct one
+</script> 
       
       </header>
       <section>
