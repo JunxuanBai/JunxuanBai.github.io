@@ -94,7 +94,26 @@
 
     <h2><a id="Journal_papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Journal Papers</h2>
 
-    <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="http://diglib.eg.org/handle/10.1111/cgf14402">KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction</a> 
+    <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.2217">Foot-constrained spatial-temporal transformer for keyframe-based complex motion synthesis</a> 
+        <br> Hao Li, Ju Dai, Rui Zeng, <b>Junxuan Bai</b>, Zhangmeng Chen, Junjun Pan
+        <br> <i>Computer Animation and Virtual Worlds</i>, e2217, 2023.
+        <br> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.2217">[Info]</a>
+    <button class="accordion">
+      Abstract
+    </button>
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Keyframe-based motion synthesis holds significant effects in games and movies. 
+      Existing methods for complex motion synthesis often require secondary post-processing to eliminate foot sliding to yield satisfied motions. 
+      In this paper, we analyze the cause of the sliding issue attributed to the mismatch between root trajectory and motion postures. 
+      To address the problem, we propose a novel end-to-end Spatial-Temporal transformer network conditioned on foot contact information for high-quality keyframe-based motion synthesis. 
+      Specifically, our model mainly compromises a spatial-temporal transformer encoder and two decoders to learn motion sequence features and predict motion postures and foot contact states. 
+      A novel constrained embedding, which consists of keyframes and foot contact constraints, is incorporated into the model to facilitate network learning from diversified control knowledge. 
+      To generate matched root trajectory with motion postures, we design a differentiable root trajectory reconstruction algorithm to construct root trajectory based on the decoder outputs. 
+      Qualitative and quantitative experiments on the public LaFAN1, Dance, and Martial Arts datasets demonstrate the superiority of our method in generating high-quality complex motions compared with state-of-the-arts. 
+    </div>
+    </p>
+    <img src="https://JunxuanBai.github.io/research/2023_CAVW_FootMotionSynthesis.png">
+        
+    <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323005046">KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction</a> 
         <br> Ju Dai, Hao Li, Rui Zeng, <b>Junxuan Bai</b>, Feng Zhou, Junjun Pan
         <br> <i>Pattern Recognition</i>, 143, 2023.
         <br> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323005046">[Info]</a><a href="https://github.com/wslh852/KD-Former">[code]</a>
