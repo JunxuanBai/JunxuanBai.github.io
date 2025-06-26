@@ -94,6 +94,28 @@
 
     <h2><a id="Journal_papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Journal Papers</h2>
 
+	<p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://doi.org/10.1016/j.patcog.2025.112008">LiteNeRFAvatar: A lightweight NeRF with local feature learning for dynamic human avatar</a> 
+        <br> Junjun Pan, Xiaoyu Li, <b>Junxuan Bai</b>, Ju Dai
+        <br> <i>Pattern Recognition</i>, Volume 170, 2026
+        <br> <a href="https://doi.org/10.1016/j.patcog.2025.112008">[Info]</a><a href="https://youtu.be/UYfreeHtIZY">[Demo]</a>
+    <button class="accordion">
+      Abstract
+    </button>
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
+      Creating high-quality dynamic human avatars within acceptable costs remains challenging in computer vision and computer graphics. 
+	  The neural radiance field (NeRF) has become a fundamental means of generating human avatars due to its success in novel view synthesis. 
+	  However, the storage-intensive and time-consuming per-scene training due to the transformation and evaluation of massive sampling points constrains its practical applications. 
+	  In this paper, we introduce a novel lightweight NeRF model, LiteNeRFAvatar, to overcome these limits. 
+	  To avoid the high-cost backward transformation of the sampling points, LiteNeRFAvatar decomposes the appearance features of clothed humans into multiple local feature spaces and transforms them forward according to human movements. 
+	  Each local feature space affects a limited local area and is represented by an explicit feature volume created by the tensor decomposition techniques to support fast access. 
+	  The sampling points retrieve the features based on the relative positions to the local feature spaces. 
+	  The densities and the colors are then regressed from the aggregated features using a tiny decoder. 
+	  We also adopt an empty space skipping strategy to further reduce the number of sampling points. 
+	  Experimental results demonstrate that our LiteNeRFAvatar achieves a satisfactory balance between synthesis quality, training time, rendering speed and parameter size compared to the existing NeRF-based methods.  
+    </div>
+    </p>
+    <img src="https://JunxuanBai.github.io/research/2026-PR-LiteNeRFAvatar.png">
+
     <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://onlinelibrary.wiley.com/doi/10.1002/cav.70035">Motion In-Betweening via Recursive Keyframe Prediction</a> 
         <br> Rui Zeng, Ju Dai, <b>Junxuan Bai</b>, Junjun Pan
         <br> <i>Computer Animation and Virtual Worlds</i>, 36(3), e70035, 2025
