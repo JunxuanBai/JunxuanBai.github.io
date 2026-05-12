@@ -3,6 +3,42 @@ body {
   color: #333;  /* 文字保持深灰，确保在浅灰背景上可读 */
 }
 
+/* ========== 论文主题标签 ========== */
+.pub-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-left: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+/* 各主题配色 */
+.tag-motion      { background: #e6fffa; color: #234e52; border: 1px solid #b2f5ea; }
+.tag-immersive   { background: #ebf8ff; color: #2a4365; border: 1px solid #bee3f8; }
+.tag-animation   { background: #faf5ff; color: #553c9a; border: 1px solid #e9d8fd; }
+.tag-sports      { background: #fffaf0; color: #744210; border: 1px solid #fbd38d; }
+.tag-medical     { background: #fff5f5; color: #742a2a; border: 1px solid #fed7d7; }
+
+.pub-tag i { font-size: 0.9em; }
+
+/* 论文卡片左侧色条（可选） */
+.pub-item {
+  border-left: 3px solid #cbd5e0;
+  padding-left: 12px;
+  margin-bottom: 16px;
+}
+.pub-item.motion    { border-left-color: #38b2ac; }
+.pub-item.immersive { border-left-color: #4299e1; }
+.pub-item.animation { border-left-color: #9f7aea; }
+.pub-item.sports    { border-left-color: #ed8936; }
+
 .nav-download {
   font-size: 20px;
   font-weight: 700;
